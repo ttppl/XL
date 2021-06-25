@@ -1,0 +1,6 @@
+export const BASE_OPERATION = {
+  UPDATE: 'UPDATE',
+  ADD: 'ADD',
+  DELETE: 'DELETE',
+  ADD_ITEM: 'ADD_ITEM'
+}
